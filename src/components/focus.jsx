@@ -1,8 +1,14 @@
+import { useEffect, useRef } from "react";
+
 export function Focus() {
+    const ref = useRef(null);
+    useEffect(() => {
+        ref.current.focus();
+    }, []);
+
     return (
         <div>
-            <h2>Beispiel 1</h2>
-            <input placeholder="Dein Name"></input>
+            <input ref={ref} placeholder="Dein Name"></input>
         </div>
     );
 }

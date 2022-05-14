@@ -18,13 +18,16 @@ button {
     border-radius: 0.5rem;
 }
 
-h1,
+h1 {
+    margin-bottom: 2rem;
+}
+
 h2 {
-    margin-bottom: 1rem;
+    margin: 1rem 0;
 }
 
 button {
-    margin: 1rem 0;
+    margin-bottom: 1rem;
 }
 
 input {

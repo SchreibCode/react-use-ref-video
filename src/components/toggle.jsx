@@ -1,10 +1,8 @@
 import { useState } from "react";
-import { Async } from "./async";
 export function Toggle(props) {
     const [show, setShow] = useState(true);
     return (
-        <div>
-            <h2>Beispiel 2</h2>
+        <div style={{ padding: "1rem", border: "1px solid white" }}>
             <button
                 onClick={() => {
                     setShow((show) => !show);
@@ -12,7 +10,7 @@ export function Toggle(props) {
             >
                 Toggle
             </button>
-            {show ? <Async /> : null}
+            {show ? props.children : null}
         </div>
     );
 }

@@ -1,3 +1,36 @@
 #root {
     height: 100%;
+    padding: 2rem;
+}
+
+body {
+    color: white;
+}
+
+button {
+    border: 0;
+    padding: 1rem;
+    font-size: 1rem;
+    color: white;
+    font-weight: 600;
+    background-color: var(--color-blue);
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
+
+h1,
+h2 {
+    margin-bottom: 1rem;
+}
+
+button {
+    margin: 1rem 0;
+}
+
+input {
+    border: 0;
+    padding: 1rem;
+    font-family: var(--font-family);
+    font-size: 1rem;
+    border-radius: 0.5rem;
 }

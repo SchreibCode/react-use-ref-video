@@ -11,14 +11,14 @@ export default function App() {
             <h1>React useRef</h1>
             <h2>Beispiel 1</h2>
             <Beispiel />
-            <h2>Beispiel 2</h2>
+            {/* <h2>Beispiel 2</h2>
             <Toggle>
                 <Focus />
-            </Toggle>
-            <h2>Beispiel 3</h2>
+            </Toggle> */}
+            {/* <h2>Beispiel 3</h2>
             <Toggle>
                 <Async />
-            </Toggle>
+            </Toggle> */}
         </div>
     );
 }

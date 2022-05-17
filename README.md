@@ -1,8 +1,8 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/public/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/react-use-ref-video/blob/main/public/react-useref.jpg" width="450" alt="Youtube Thumbnail"/>
 
-# Thema
+# React useRef
 
-- In diesem Repository findest du den Code zum Video: "Videotitel".
+- In diesem Repository findest du den Code zum Video: "React useRef in 9 Minuten".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
 [Link zum Video](https://www.youtube.com) anschauen.
 

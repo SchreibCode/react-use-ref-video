@@ -2,7 +2,7 @@
 
 # React useRef
 
-- In diesem Repository findest du den Code zum Video: "React useRef in 9 Minuten".
+- In diesem Repository findest du den Code zum Video: "Lern useRef in 9 Minuten".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
 [Link zum Video](https://www.youtube.com) anschauen.
 
